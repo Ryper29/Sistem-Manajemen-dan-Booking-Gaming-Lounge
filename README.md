@@ -79,8 +79,8 @@ Buka browser dan akses: **http://127.0.0.1:8000**
 
 | Peran | Email | Password |
 |-------|-------|----------|
-| Admin | admin@warnet.com | password |
-| Customer | customer@warnet.com | password |
+| Admin | admin@gaminghub.com | admin123 |
+| Customer | rifki123@gmail.com | rifki123 |
 
 ---
 
@@ -106,7 +106,20 @@ warnet-vip/
 
 ## 📸 Tampilan Aplikasi
 
-> *Screenshot akan ditambahkan setelah deployment.*
+### 🏠 Halaman Utama (Welcome Page)
+![Welcome Page](screenshots/welcome.png)
+
+### 🔐 Halaman Login
+![Login Page](screenshots/login.png)
+
+### 📝 Halaman Registrasi
+![Register Page](screenshots/register.png)
+
+### 👑 Dashboard Admin
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### 🎮 Dashboard Customer (Pilih Ruangan)
+![Customer Dashboard](screenshots/customer-dashboard.png)
 
 ---
 
