@@ -28,7 +28,7 @@ Aplikasi web berbasis **Laravel** untuk mengelola dan melakukan booking ruang ga
 | **Laravel 10** | PHP Framework (Backend) |
 | **MySQL** | Database |
 | **Blade** | Template Engine (Frontend) |
-| **Bootstrap 5** | CSS Framework |
+| **Tailwind CSS v4** | CSS Framework |
 | **Vite** | Asset Bundler |
 
 ---
